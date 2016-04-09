@@ -18,17 +18,17 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
   Copyright owned by:
-                      Remi van Dongen
-                      Oranjeboomstraat 210E
-                      3071BK ROTTERDAM
-                      THE NETHERLANDS
+Remi van Dongen
+Oranjeboomstraat 210E
+3071BK ROTTERDAM
+THE NETHERLANDS
   At Hotmail.com: 
-                  unclexnl
-  At Gmail.com:   
-                mobile.unclexnl
-
+unclexnl
+  At Gmail.com:
+mobile.unclexnl
+  
   The source code and up-to-date licence can be found at GitHub:
-           https://github.com/UncleXNL/Trusted-TCP  
+https://github.com/UncleXNL/Trusted-TCP  
 
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
